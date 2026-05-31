@@ -1,0 +1,38 @@
+CUSTOMER SEGMENT INSIGHTS
+============================================================
+
+Cluster 0
+------------------------------
+Average Age: 50.02
+Average Income: 60.98 k$
+Average Spending Score: 29.04
+Insight: Average Customers - Moderate income and spending.
+
+Cluster 1
+------------------------------
+Average Age: 26.63
+Average Income: 46.37 k$
+Average Spending Score: 65.22
+Insight: Average Customers - Moderate income and spending.
+
+Cluster 2
+------------------------------
+Average Age: 48.65
+Average Income: 60.93 k$
+Average Spending Score: 36.04
+Insight: Average Customers - Moderate income and spending.
+
+Cluster 3
+------------------------------
+Average Age: 27.13
+Average Income: 48.09 k$
+Average Spending Score: 60.73
+Insight: Average Customers - Moderate income and spending.
+
+Cluster 4
+------------------------------
+Average Age: 32.21
+Average Income: 92.89 k$
+Average Spending Score: 80.86
+Insight: Premium Customers - High income and high spending.
+
